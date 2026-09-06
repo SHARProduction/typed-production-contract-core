@@ -1,0 +1,23 @@
+{
+  "name": "@shar-production/production-contract",
+  "version": "1.0.0",
+  "description": "Typed production contract normalization, validation and diff library by SHAR Production",
+  "type": "module",
+  "license": "MIT",
+  "exports": "./src/index.mjs",
+  "bin": {
+    "shar-contract": "./bin/cli.mjs"
+  },
+  "files": [
+    "src",
+    "bin",
+    "README.md",
+    "README.ru.md",
+    "LICENSE"
+  ],
+  "homepage": "https://sharprod.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SHARProduction/typed-production-contract-core.git"
+  }
+}
