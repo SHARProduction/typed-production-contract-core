@@ -1,0 +1,8 @@
+{
+  "name": "@sharproduction/production-contract",
+  "version": "1.0.0",
+  "exports": "./src/index.mjs",
+  "license": "MIT",
+  "homepage": "https://sharprod.com/",
+  "description": "SHAR Production typed contract normalization, validation and diff library."
+}
